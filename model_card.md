@@ -122,4 +122,4 @@ Confusion matrix (rows = true class, columns = predicted class):
   → **Recommendation:** Add input validation (expected ranges, units) and a rejection mechanism, for example a threshold on predicted probabilities. Keep a human in the loop for any decision.
 
 ## Reproductibility
-<!-- Complete after section B.10 -->
+- **git_sha:** `1c9a7c272a24c8a5900868b23960534735e3a2dd`
