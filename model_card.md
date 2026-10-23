@@ -1,5 +1,5 @@
 ---
-license: MIT
+license: mit
 language:
 - en
 datasets:
@@ -7,7 +7,7 @@ datasets:
 metrics:
 - accuracy
 - f1
-pipeline_tag: tabular-classification
+pipeline_tag: text-classification
 ---
 
 ## Model Details
